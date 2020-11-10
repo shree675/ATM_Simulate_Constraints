@@ -26,3 +26,4 @@ Note: '7T6+yndhDz0F3W1hfpyDUg==' and 'lTjgxuZ0je2S3SA7DPq8dA==' are the encrypte
 
 1. The code is present in atm_simulate2_constraints folder.
 2. WelcomePage.java is the first file that must be run to run the code completely.
+3. The manager number is 123456789 and password is 'abc123'.
