@@ -21,3 +21,8 @@ Type the following commands in MySQL to create the appropriate database and tabl
 * create table transactiontest1(FromName varchar(20), FromAcc varchar(20), ToName char(5), ToAcc char(5), Amount double, Date varchar(25));
 
 Note: '7T6+yndhDz0F3W1hfpyDUg==' and 'lTjgxuZ0je2S3SA7DPq8dA==' are the encrypted strings representing PIN '54321' and '98765' respectively (AES 128 has been used).
+
+## Instructions:
+
+1. The code is present in atm_simulate2_constraints folder.
+2. WelcomePage.java is the first file that must be run to run the code completely.
