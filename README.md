@@ -5,7 +5,7 @@
 2. Added a Bank column in the database (table customerstest1) along with adding two other columns - Phone and IFSC Code.
 3. Option of banks - 'ABC Bank' and 'Other' - have been added.
 4. If the user selects 'ABC Bank' and his Bank value is 'abc' in the database, then no processing fee is charged. If the user selects 'Other', then a processing fee is charged regardless of which bank his account belongs to in the database. In all the cases, the selected option is verified by checking the corresponding Bank value in the database.
-5. Added international money transfer in the deposit and funds transfer section. USD is converted into INR and an extra fee is charged for this international money transfer.
+5. Added international money transfer in the deposit and funds transfer sections. USD is converted into INR and an extra fee is charged for this international money transfer.
 
 Note: 6 out of 7 common constraints have been implemented.
 
